@@ -11,6 +11,9 @@ const HTML_PAGE = `
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
+    
+    <meta name="monetag" content="bc9cb2c40226dc35f5a2c71f96b39875">
+    
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title data-i18n="page.title">VoiceCraft - AI-Powered Voice Processing Platform</title>
     <meta name="description" content="" data-i18n-content="page.description">
