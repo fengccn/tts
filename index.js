@@ -13,6 +13,7 @@ const HTML_PAGE = `
     <meta charset="UTF-8">
     
     <meta name="monetag" content="bc9cb2c40226dc35f5a2c71f96b39875">
+    <script>(function(s){s.dataset.zone='10580261',s.src='https://nap5k.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title data-i18n="page.title">VoiceCraft - AI-Powered Voice Processing Platform</title>
