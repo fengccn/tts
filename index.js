@@ -898,7 +898,10 @@ const HTML_PAGE = `
     </style>
 </head>
 <body>
-aaaa
+
+<a href="https://fengcblog.880200.xyz/">
+<img border="0" src="https://fengc-img.880200.xyz/api/rfile/logo.jpg" width="150" target="_blank">
+</a>
 
     <!-- 语言切换器 -->
     <div class="language-switcher">
