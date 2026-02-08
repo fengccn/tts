@@ -945,9 +945,9 @@ const HTML_PAGE = `
     </div>
 
     <div class="container">
-        <h1 data-i18n="header.title">
+       
         <div class="header">
-            <a href="https://fengcblog.880200.xyz/" target="_blank">
+            <h1 data-i18n="header.title"> <a href="https://fengcblog.880200.xyz/" target="_blank">
               <img border="0" src="https://fengc-img.880200.xyz/api/rfile/logo.png" width="60">
             </a>
        VoiceCraft</h1>
