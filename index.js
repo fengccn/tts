@@ -900,7 +900,7 @@ const HTML_PAGE = `
 <body>
 
 <a href="https://fengcblog.880200.xyz/">
-<img border="0" src="https://fengc-img.880200.xyz/api/rfile/logo.jpg" width="80" target="_blank">
+<img border="0" src="https://fengc-img.880200.xyz/api/rfile/logo.png" width="80" style="margin-left: 50px target="_blank">
 </a>
 
     <!-- 语言切换器 -->
