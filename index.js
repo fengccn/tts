@@ -899,10 +899,6 @@ const HTML_PAGE = `
 </head>
 <body>
 
-  <a href="https://fengcblog.880200.xyz/" target="_blank">
-    <img border="0" src="https://fengc-img.880200.xyz/api/rfile/logo.png" width="50" style="margin-left: 50px">
-  </a>
-
     <!-- 语言切换器 -->
     <div class="language-switcher">
         <div class="language-btn" id="languageBtn">
@@ -950,7 +946,10 @@ const HTML_PAGE = `
 
     <div class="container">
         <div class="header">
-            <h1 data-i18n="header.title">VoiceCraft</h1>
+            <a href="https://fengcblog.880200.xyz/" target="_blank">
+              <img border="0" src="https://fengc-img.880200.xyz/api/rfile/logo.png" width="60">
+            </a>&nbsp;
+       <h1 data-i18n="header.title">VoiceCraft</h1>
             <p class="subtitle" data-i18n="header.subtitle">AI-Powered Voice Processing Platform</p>
             <div class="features">
                 <div class="feature-item">
