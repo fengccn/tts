@@ -899,9 +899,9 @@ const HTML_PAGE = `
 </head>
 <body>
 
-<div style="display: grid; grid-template-columns: auto auto;">
+<div style="text-align: left;">
   <a href="https://fengcblog.880200.xyz/" target="_blank>
-    <img border="0" src="https://fengc-img.880200.xyz/api/rfile/logo.png" width="80" style="margin-left: 50px;">
+    <img border="0" src="https://fengc-img.880200.xyz/api/rfile/logo.png" width="80" style="margin-left: 50px">
   </a>
 </div>
 
