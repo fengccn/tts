@@ -948,8 +948,7 @@ const HTML_PAGE = `
        
         <div class="header">
             <a href="https://fengcblog.880200.xyz/" target="_blank">
-              <img border="0" src="https://fengc-img.880200.xyz/api/rfile/logo.png" width="50">
-              <h1 data-i18n="header.title">VoiceCraft</h1></a>   
+              <h1 data-i18n="header.title"><img border="0" src="https://fengc-img.880200.xyz/api/rfile/logo.png" width="50"></a>VoiceCraft</h1>  
             <p class="subtitle" data-i18n="header.subtitle">AI-Powered Voice Processing Platform</p>
             <div class="features">
                 <div class="feature-item">
